@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "targetHit",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            138,
+            0
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            0,
+            132,
+            0
+          ]
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": [
+            0,
+            138,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

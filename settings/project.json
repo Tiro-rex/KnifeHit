@@ -1,0 +1,44 @@
+{
+  "group-list": [
+    "knife",
+    "target"
+  ],
+  "collision-matrix": [
+    [
+      false,
+      true
+    ],
+    [
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [
+    "3D Physics/Builtin"
+  ],
+  "preview-port": 7456,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  },
+  "clear-simulator-cache": true,
+  "facebook": {
+    "enable": false,
+    "appID": "",
+    "live": {
+      "enable": false
+    },
+    "audience": {
+      "enable": false
+    }
+  },
+  "start-scene": "54c5430d-a2c1-4268-80a9-49d34e839efe",
+  "last-module-event-record-time": 1658903344416
+}
